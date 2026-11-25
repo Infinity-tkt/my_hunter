@@ -1,0 +1,10 @@
+Usage: ./my_hunter
+
+How to play:
+
+To play this game you must click with your mouse
+on the different kaiju.
+
+You have 3 type of kaiju that give you a different
+amout of point, to win you have to make the most point
+possible.
